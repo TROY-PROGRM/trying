@@ -1,0 +1,9 @@
+# trying
+#######
+login_user() {
+echo "hello user ...."
+read usr
+echo $usr
+
+}
+login_user
